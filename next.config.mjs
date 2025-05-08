@@ -9,7 +9,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/futurethought",
+  basePath: "/futurethought-homepage",
 };
 
 export default nextConfig
